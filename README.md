@@ -24,3 +24,4 @@ This is an advanced version from Hazard Nuker, official repository:
 https://github.com/Rdimo/Hazard-Nuker
 
 Advanced version made by somebody#2380
+Also skidding is gay plus won't make you a coder ;)
